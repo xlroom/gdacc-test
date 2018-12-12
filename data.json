@@ -1,0 +1,23 @@
+{
+
+	"nodes":[
+		{
+			"host":"http://127.0.0.1:45101",
+			"validator":"0xbada73d5b1a8948eccebbc30dfba249dbd10e5ca",
+			"wait":10
+		},
+		{
+			"host":"http://127.0.0.1:45102",
+			"validator":"0xc681b624dd6e84ff962fc4b9402548406ee0aa6d",
+			"wait":1000
+
+		},
+		{
+			"host":"http://127.0.0.1:45103",
+			"validator":"0xb826ee0ad5bfe6e48307001a6c411d843508f78e",
+			"wait":1000
+
+		}
+	]
+
+}
